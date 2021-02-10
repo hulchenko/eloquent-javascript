@@ -11,4 +11,4 @@ if ((x+y) % 2 == 0) {
    } 
  board += "\n";
 }
-console.log(board);
+console.log(board);s
